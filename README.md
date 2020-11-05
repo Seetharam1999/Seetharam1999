@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently learning React Native
-- 🤔 I’m looking for help with Bike Racing
+- 🤔 I’m looking for help with MERN,MEAN STACK
 - 📫 How to reach me: [Twitter](https://mobile.twitter.com/SRSEETHARAM), [Linkedin](https://www.linkedin.com/in/seetharam-s-362286146/) , [Gmail](srseetharam1999@gmail.com)
 - 😄 Pronouns: He/His
 
