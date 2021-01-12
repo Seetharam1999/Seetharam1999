@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React Native
 - 🤔 I’m looking for help with MERN,MEAN STACK
-- 📫 How to reach me: [Twitter](https://mobile.twitter.com/SRSEETHARAM), [Linkedin](https://www.linkedin.com/in/seetharam-s-362286146/) , [Gmail](srseetharam1999@gmail.com)
+- 📝 I occasionally write articles on [Medium](https://medium.com/@srseetharam)
 - 😄 Pronouns: He/His
 
 
@@ -23,3 +23,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seetharam1999&show_icons=true&theme=light&line_height=27" alt="Seetharam's github stats"/>
 </a>
 
+
+## blog posts
