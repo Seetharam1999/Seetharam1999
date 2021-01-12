@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently learning React Native
-- 🤔 I’m looking for help with MERN,MEAN STACK
+- 🤔 I’m looking for help with [MERN],[MEAN] STACK
 - 📝 I occasionally write articles on [Medium](https://medium.com/@srseetharam)
 - 😄 Pronouns: He/His
 
